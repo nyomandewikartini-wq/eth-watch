@@ -1,0 +1,11 @@
+{
+    "ticker": "ETH-USD",
+    "target": "Close",
+    "frequency": "1d",
+    "forecast_horizon_days": 1,
+    "lookback": 14,
+    "lstm_units": 128,
+    "best_epoch": 12,
+    "validation_rmse_usd": 153.36883113320928,
+    "selected_by": "Lowest validation RMSE"
+}
